@@ -21,3 +21,7 @@ I am using a raspberry-pi with a usb wifi stick [acting as a router](http://elin
 
     dumpcap -i wlan0 -P -w - | /home/d1g1t/shinyvaluedetect/xydec
 
+ thanks
+-----
+FireyFly for xydec
+OmegaDonut for instacheck (pokemon/nature/etc names are taken from there along with the block permutations)
