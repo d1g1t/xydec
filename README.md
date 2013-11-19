@@ -18,4 +18,6 @@ You can get it to show other relevant info such as moves/egg moves etc by editin
  my setup
 -----
 I am using a raspberry-pi with a usb wifi stick [acting as a router](http://elinux.org/RPI-Wireless-Hotspot) and capturing the packets with
+
     dumpcap -i wlan0 -P -w - | /home/d1g1t/shinyvaluedetect/xydec
+
