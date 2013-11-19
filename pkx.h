@@ -29,7 +29,7 @@ struct pokemon {
     uint8_t  ability_no;
 
     uint16_t un1;
-    uint32_t un2;
+    uint32_t pid;
 
     uint8_t  nature;
     uint8_t  flags;
